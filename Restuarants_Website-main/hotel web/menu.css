@@ -1,0 +1,56 @@
+.card{
+
+    box-shadow: -10px 10px 40px rgba(0, 0, 0, 0.25) ;
+
+      margin-left: 50px;
+
+
+}
+#pk{
+
+
+          display: flex;
+          flex-direction: row;
+
+
+
+}
+.sa{
+
+
+         height: 300px;
+
+}
+.wq{
+
+         
+      font-weight: bolder;
+      font-family: cursive;
+      text-align: center;
+      color:darkgray;
+      font-size: 25PX;
+             
+
+}
+#df{
+
+ 
+          display:flex;
+          flex-direction: row;
+
+
+}
+#bc{
+
+            border-radius: 50% 50% 50% 50%;
+
+
+}
+#jj{
+
+
+
+      box-shadow: 10px -10px white;
+
+
+}
